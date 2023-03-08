@@ -1,5 +1,8 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Python in Rust sample project
+This is a mini project from IDS721. The main goal of this project is trying to use python in rust.
+
+## Usage
+Type in ```cargo run``` to start the program.
 
 ## References
 
